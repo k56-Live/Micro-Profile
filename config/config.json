@@ -1,0 +1,4 @@
+{
+	"database_url": "postgres://user:password@localhost/micro_profile_social_media",
+	"app_port": 8080
+}
